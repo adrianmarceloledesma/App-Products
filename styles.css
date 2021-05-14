@@ -1,0 +1,66 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+header h1{
+    color: gray;
+    margin: 5px;
+    border-bottom: 1px solid rgb(145, 142, 142);
+}
+
+.contenedor-form{
+    margin-top:30px;
+    border:solid 1px gray;
+    width: 30%;
+    margin-left: 20px;
+   
+}
+.cont-h4{
+    background-color: rgb(233, 230, 230);
+}
+.cont-h4 h4{
+    font-size: 20px;
+    border-bottom: 1px solid gray;
+    padding: 10px;
+}
+form{
+    margin:10px 0
+}
+
+form input{
+    width: 90%;
+    padding:5px ;
+    margin: 5px;
+
+}
+
+
+
+.btn-delete{
+    background-Color:red; 
+    color:white; 
+    padding:5px; 
+    border-radius:3px 3px 3px 5px
+}
+.good{
+    background-color: rgb(39, 133, 70);
+    color: white;
+    font-size: 18px;
+    padding: 10px 0;
+    text-align: center;
+}
+.bad{
+    background-color: rgb(173, 32, 32);
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+    font-size: 18px;
+}
+.warning{
+    background-color: rgb(189, 66, 18);
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+    font-size: 18px;
+}
